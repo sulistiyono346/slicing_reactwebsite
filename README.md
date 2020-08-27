@@ -1,2 +1,2 @@
 # slicing_reactwebsite
-slicing_reactwebsite
+slicing_reactwebsites
